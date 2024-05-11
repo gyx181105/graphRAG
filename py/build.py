@@ -4,7 +4,7 @@ import json
 # 连接到 Neo4j 数据库
 uri = "bolt://localhost:7687"
 username = "neo4j"
-password = "txys66666"
+password = "txys666660"
 driver = GraphDatabase.driver(uri, auth=(username, password))
 
 # 读取 JSON 数据
