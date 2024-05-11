@@ -1,0 +1,346 @@
+{
+    "companies": [
+        {
+            "name": "apNRsAHo Company",
+            "type": "Finance",
+            "size": "Medium",
+            "address": "KtTNxLU4fH St.",
+            "founded": "2012-3-3",
+            "business_area": "Financial Services"
+        },
+        {
+            "name": "eJjtdfrk Company",
+            "type": "Healthcare",
+            "size": "Medium",
+            "address": "0sh0gVgm7J St.",
+            "founded": "2009-3-10",
+            "business_area": "Pharmaceuticals"
+        },
+        {
+            "name": "YvtYqOkg Company",
+            "type": "Retail",
+            "size": "Large",
+            "address": "PGtP78PuX9 St.",
+            "founded": "2013-7-8",
+            "business_area": "Software Development"
+        },
+        {
+            "name": "RHRVjxFu Company",
+            "type": "Technology",
+            "size": "Small",
+            "address": "yP9kIEHknO St.",
+            "founded": "2021-7-3",
+            "business_area": "Financial Services"
+        },
+        {
+            "name": "YTIUheov Company",
+            "type": "Retail",
+            "size": "Small",
+            "address": "i7y3M9PF5c St.",
+            "founded": "1983-11-18",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "avwWZjna Company",
+            "type": "Retail",
+            "size": "Large",
+            "address": "jMIsTaMSJK St.",
+            "founded": "1991-10-18",
+            "business_area": "E-commerce"
+        },
+        {
+            "name": "zvLqpMlo Company",
+            "type": "Healthcare",
+            "size": "Medium",
+            "address": "elJpg39Oky St.",
+            "founded": "2005-10-2",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "SrSLVhmN Company",
+            "type": "Retail",
+            "size": "Medium",
+            "address": "XBJ5fTwfoB St.",
+            "founded": "1984-1-9",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "fntJnCCP Company",
+            "type": "Technology",
+            "size": "Small",
+            "address": "HWXrDMAPPx St.",
+            "founded": "1987-5-27",
+            "business_area": "Software Development"
+        },
+        {
+            "name": "RqbrBHmp Company",
+            "type": "Manufacturing",
+            "size": "Small",
+            "address": "gWT2abawTg St.",
+            "founded": "2015-6-28",
+            "business_area": "Pharmaceuticals"
+        },
+        {
+            "name": "bMxljoIb Company",
+            "type": "Healthcare",
+            "size": "Large",
+            "address": "RgkP9CMhyu St.",
+            "founded": "2014-6-10",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "thTxlUML Company",
+            "type": "Manufacturing",
+            "size": "Large",
+            "address": "8GL2olQId2 St.",
+            "founded": "1987-1-4",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "cdKDrvmv Company",
+            "type": "Technology",
+            "size": "Large",
+            "address": "1IARufPLR6 St.",
+            "founded": "2004-3-1",
+            "business_area": "Financial Services"
+        },
+        {
+            "name": "vudReemu Company",
+            "type": "Retail",
+            "size": "Medium",
+            "address": "dlkEkJRgoa St.",
+            "founded": "2014-4-2",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "nHMMTKoK Company",
+            "type": "Finance",
+            "size": "Small",
+            "address": "9fG8uFaped St.",
+            "founded": "2011-9-21",
+            "business_area": "E-commerce"
+        },
+        {
+            "name": "bgKVOyBp Company",
+            "type": "Retail",
+            "size": "Large",
+            "address": "SWZz4MCds4 St.",
+            "founded": "2020-5-14",
+            "business_area": "Pharmaceuticals"
+        },
+        {
+            "name": "kANBWNMZ Company",
+            "type": "Retail",
+            "size": "Large",
+            "address": "uiMxIxeF3h St.",
+            "founded": "2022-4-13",
+            "business_area": "Automobile"
+        },
+        {
+            "name": "MyUhhaQo Company",
+            "type": "Retail",
+            "size": "Small",
+            "address": "S5YCnZkzuR St.",
+            "founded": "2008-7-20",
+            "business_area": "Pharmaceuticals"
+        },
+        {
+            "name": "WNhZiOev Company",
+            "type": "Finance",
+            "size": "Large",
+            "address": "oUKyT3db2z St.",
+            "founded": "1981-12-28",
+            "business_area": "E-commerce"
+        },
+        {
+            "name": "zwkqYfuw Company",
+            "type": "Healthcare",
+            "size": "Medium",
+            "address": "KjQ1DfC7xl St.",
+            "founded": "2010-5-16",
+            "business_area": "Pharmaceuticals"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "apNRsAHo Company",
+            "target": "eJjtdfrk Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "avwWZjna Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "zvLqpMlo Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "SrSLVhmN Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "bgKVOyBp Company"
+        },
+        {
+            "source": "apNRsAHo Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "eJjtdfrk Company",
+            "target": "RHRVjxFu Company"
+        },
+        {
+            "source": "eJjtdfrk Company",
+            "target": "bMxljoIb Company"
+        },
+        {
+            "source": "eJjtdfrk Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "YvtYqOkg Company",
+            "target": "zvLqpMlo Company"
+        },
+        {
+            "source": "YvtYqOkg Company",
+            "target": "RqbrBHmp Company"
+        },
+        {
+            "source": "YvtYqOkg Company",
+            "target": "bMxljoIb Company"
+        },
+        {
+            "source": "YvtYqOkg Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "YvtYqOkg Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "RHRVjxFu Company",
+            "target": "bMxljoIb Company"
+        },
+        {
+            "source": "RHRVjxFu Company",
+            "target": "thTxlUML Company"
+        },
+        {
+            "source": "RHRVjxFu Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "RHRVjxFu Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "YTIUheov Company",
+            "target": "RqbrBHmp Company"
+        },
+        {
+            "source": "YTIUheov Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "YTIUheov Company",
+            "target": "nHMMTKoK Company"
+        },
+        {
+            "source": "YTIUheov Company",
+            "target": "bgKVOyBp Company"
+        },
+        {
+            "source": "avwWZjna Company",
+            "target": "zvLqpMlo Company"
+        },
+        {
+            "source": "avwWZjna Company",
+            "target": "fntJnCCP Company"
+        },
+        {
+            "source": "avwWZjna Company",
+            "target": "cdKDrvmv Company"
+        },
+        {
+            "source": "zvLqpMlo Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "SrSLVhmN Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "SrSLVhmN Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "fntJnCCP Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "fntJnCCP Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "RqbrBHmp Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "bMxljoIb Company",
+            "target": "kANBWNMZ Company"
+        },
+        {
+            "source": "bMxljoIb Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "thTxlUML Company",
+            "target": "vudReemu Company"
+        },
+        {
+            "source": "cdKDrvmv Company",
+            "target": "nHMMTKoK Company"
+        },
+        {
+            "source": "cdKDrvmv Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "vudReemu Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "vudReemu Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "nHMMTKoK Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "nHMMTKoK Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "nHMMTKoK Company",
+            "target": "zwkqYfuw Company"
+        },
+        {
+            "source": "bgKVOyBp Company",
+            "target": "MyUhhaQo Company"
+        },
+        {
+            "source": "kANBWNMZ Company",
+            "target": "WNhZiOev Company"
+        },
+        {
+            "source": "MyUhhaQo Company",
+            "target": "zwkqYfuw Company"
+        }
+    ]
+}
