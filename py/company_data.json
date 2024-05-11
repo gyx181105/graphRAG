@@ -1,346 +1,370 @@
 {
     "companies": [
         {
-            "name": "apNRsAHo Company",
-            "type": "Finance",
-            "size": "Medium",
-            "address": "KtTNxLU4fH St.",
-            "founded": "2012-3-3",
-            "business_area": "Financial Services"
+            "name": "同创科技有限公司",
+            "type": "金融",
+            "size": "中型",
+            "address": "人民路596号",
+            "founded": "1996-10-01",
+            "business_area": "软件开发"
         },
         {
-            "name": "eJjtdfrk Company",
-            "type": "Healthcare",
-            "size": "Medium",
-            "address": "0sh0gVgm7J St.",
-            "founded": "2009-3-10",
-            "business_area": "Pharmaceuticals"
+            "name": "永康网络有限公司",
+            "type": "零售",
+            "size": "小型",
+            "address": "中山路154号",
+            "founded": "2009-08-18",
+            "business_area": "汽车制造"
         },
         {
-            "name": "YvtYqOkg Company",
-            "type": "Retail",
-            "size": "Large",
-            "address": "PGtP78PuX9 St.",
-            "founded": "2013-7-8",
-            "business_area": "Software Development"
+            "name": "合力文化有限公司",
+            "type": "科技",
+            "size": "大型",
+            "address": "和平路48号",
+            "founded": "1987-06-01",
+            "business_area": "电子商务"
         },
         {
-            "name": "RHRVjxFu Company",
-            "type": "Technology",
-            "size": "Small",
-            "address": "yP9kIEHknO St.",
-            "founded": "2021-7-3",
-            "business_area": "Financial Services"
+            "name": "江南文化有限公司",
+            "type": "零售",
+            "size": "中型",
+            "address": "建国路866号",
+            "founded": "2005-04-26",
+            "business_area": "汽车制造"
         },
         {
-            "name": "YTIUheov Company",
-            "type": "Retail",
-            "size": "Small",
-            "address": "i7y3M9PF5c St.",
-            "founded": "1983-11-18",
-            "business_area": "Automobile"
+            "name": "东方文化有限公司",
+            "type": "金融",
+            "size": "中型",
+            "address": "建国路160号",
+            "founded": "2010-08-26",
+            "business_area": "金融服务"
         },
         {
-            "name": "avwWZjna Company",
-            "type": "Retail",
-            "size": "Large",
-            "address": "jMIsTaMSJK St.",
-            "founded": "1991-10-18",
-            "business_area": "E-commerce"
+            "name": "永康电子有限公司",
+            "type": "科技",
+            "size": "中型",
+            "address": "中山路301号",
+            "founded": "2010-11-27",
+            "business_area": "软件开发"
         },
         {
-            "name": "zvLqpMlo Company",
-            "type": "Healthcare",
-            "size": "Medium",
-            "address": "elJpg39Oky St.",
-            "founded": "2005-10-2",
-            "business_area": "Automobile"
+            "name": "江南贸易有限公司",
+            "type": "医疗",
+            "size": "小型",
+            "address": "和平路568号",
+            "founded": "1996-06-15",
+            "business_area": "电子商务"
         },
         {
-            "name": "SrSLVhmN Company",
-            "type": "Retail",
-            "size": "Medium",
-            "address": "XBJ5fTwfoB St.",
-            "founded": "1984-1-9",
-            "business_area": "Automobile"
+            "name": "新时代网络有限公司",
+            "type": "医疗",
+            "size": "中型",
+            "address": "中山路405号",
+            "founded": "1983-08-16",
+            "business_area": "软件开发"
         },
         {
-            "name": "fntJnCCP Company",
-            "type": "Technology",
-            "size": "Small",
-            "address": "HWXrDMAPPx St.",
-            "founded": "1987-5-27",
-            "business_area": "Software Development"
+            "name": "昌盛设备有限公司",
+            "type": "金融",
+            "size": "小型",
+            "address": "长安街435号",
+            "founded": "2017-12-26",
+            "business_area": "制药"
         },
         {
-            "name": "RqbrBHmp Company",
-            "type": "Manufacturing",
-            "size": "Small",
-            "address": "gWT2abawTg St.",
-            "founded": "2015-6-28",
-            "business_area": "Pharmaceuticals"
+            "name": "合力设备有限公司",
+            "type": "制造",
+            "size": "小型",
+            "address": "人民路76号",
+            "founded": "2004-01-12",
+            "business_area": "电子商务"
         },
         {
-            "name": "bMxljoIb Company",
-            "type": "Healthcare",
-            "size": "Large",
-            "address": "RgkP9CMhyu St.",
-            "founded": "2014-6-10",
-            "business_area": "Automobile"
+            "name": "合力文化有限公司",
+            "type": "制造",
+            "size": "大型",
+            "address": "建国路800号",
+            "founded": "2012-06-16",
+            "business_area": "制药"
         },
         {
-            "name": "thTxlUML Company",
-            "type": "Manufacturing",
-            "size": "Large",
-            "address": "8GL2olQId2 St.",
-            "founded": "1987-1-4",
-            "business_area": "Automobile"
+            "name": "昌盛文化有限公司",
+            "type": "金融",
+            "size": "中型",
+            "address": "建国路973号",
+            "founded": "2006-03-26",
+            "business_area": "金融服务"
         },
         {
-            "name": "cdKDrvmv Company",
-            "type": "Technology",
-            "size": "Large",
-            "address": "1IARufPLR6 St.",
-            "founded": "2004-3-1",
-            "business_area": "Financial Services"
+            "name": "昌盛电子有限公司",
+            "type": "制造",
+            "size": "中型",
+            "address": "人民路622号",
+            "founded": "2015-07-07",
+            "business_area": "汽车制造"
         },
         {
-            "name": "vudReemu Company",
-            "type": "Retail",
-            "size": "Medium",
-            "address": "dlkEkJRgoa St.",
-            "founded": "2014-4-2",
-            "business_area": "Automobile"
+            "name": "优创食品有限公司",
+            "type": "零售",
+            "size": "中型",
+            "address": "人民路441号",
+            "founded": "2013-10-01",
+            "business_area": "金融服务"
         },
         {
-            "name": "nHMMTKoK Company",
-            "type": "Finance",
-            "size": "Small",
-            "address": "9fG8uFaped St.",
-            "founded": "2011-9-21",
-            "business_area": "E-commerce"
+            "name": "合力食品有限公司",
+            "type": "制造",
+            "size": "小型",
+            "address": "建国路340号",
+            "founded": "2003-04-24",
+            "business_area": "金融服务"
         },
         {
-            "name": "bgKVOyBp Company",
-            "type": "Retail",
-            "size": "Large",
-            "address": "SWZz4MCds4 St.",
-            "founded": "2020-5-14",
-            "business_area": "Pharmaceuticals"
+            "name": "永康实业有限公司",
+            "type": "科技",
+            "size": "小型",
+            "address": "中山路885号",
+            "founded": "2017-06-07",
+            "business_area": "金融服务"
         },
         {
-            "name": "kANBWNMZ Company",
-            "type": "Retail",
-            "size": "Large",
-            "address": "uiMxIxeF3h St.",
-            "founded": "2022-4-13",
-            "business_area": "Automobile"
+            "name": "永康贸易有限公司",
+            "type": "医疗",
+            "size": "中型",
+            "address": "建国路931号",
+            "founded": "1984-03-16",
+            "business_area": "汽车制造"
         },
         {
-            "name": "MyUhhaQo Company",
-            "type": "Retail",
-            "size": "Small",
-            "address": "S5YCnZkzuR St.",
-            "founded": "2008-7-20",
-            "business_area": "Pharmaceuticals"
+            "name": "永康文化有限公司",
+            "type": "科技",
+            "size": "小型",
+            "address": "长安街389号",
+            "founded": "1998-03-27",
+            "business_area": "软件开发"
         },
         {
-            "name": "WNhZiOev Company",
-            "type": "Finance",
-            "size": "Large",
-            "address": "oUKyT3db2z St.",
-            "founded": "1981-12-28",
-            "business_area": "E-commerce"
+            "name": "高新电子有限公司",
+            "type": "医疗",
+            "size": "大型",
+            "address": "中山路321号",
+            "founded": "2008-05-21",
+            "business_area": "金融服务"
         },
         {
-            "name": "zwkqYfuw Company",
-            "type": "Healthcare",
-            "size": "Medium",
-            "address": "KjQ1DfC7xl St.",
-            "founded": "2010-5-16",
-            "business_area": "Pharmaceuticals"
+            "name": "新时代实业有限公司",
+            "type": "医疗",
+            "size": "大型",
+            "address": "和平路561号",
+            "founded": "2017-06-21",
+            "business_area": "制药"
         }
     ],
     "relationships": [
         {
-            "source": "apNRsAHo Company",
-            "target": "eJjtdfrk Company"
+            "source": "同创科技有限公司",
+            "target": "江南文化有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "avwWZjna Company"
+            "source": "同创科技有限公司",
+            "target": "昌盛设备有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "zvLqpMlo Company"
+            "source": "同创科技有限公司",
+            "target": "合力文化有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "SrSLVhmN Company"
+            "source": "同创科技有限公司",
+            "target": "优创食品有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "vudReemu Company"
+            "source": "同创科技有限公司",
+            "target": "永康实业有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "bgKVOyBp Company"
+            "source": "同创科技有限公司",
+            "target": "永康文化有限公司"
         },
         {
-            "source": "apNRsAHo Company",
-            "target": "WNhZiOev Company"
+            "source": "永康网络有限公司",
+            "target": "合力文化有限公司"
         },
         {
-            "source": "eJjtdfrk Company",
-            "target": "RHRVjxFu Company"
+            "source": "永康网络有限公司",
+            "target": "永康电子有限公司"
         },
         {
-            "source": "eJjtdfrk Company",
-            "target": "bMxljoIb Company"
+            "source": "永康网络有限公司",
+            "target": "昌盛电子有限公司"
         },
         {
-            "source": "eJjtdfrk Company",
-            "target": "zwkqYfuw Company"
+            "source": "永康网络有限公司",
+            "target": "高新电子有限公司"
         },
         {
-            "source": "YvtYqOkg Company",
-            "target": "zvLqpMlo Company"
+            "source": "合力文化有限公司",
+            "target": "江南文化有限公司"
         },
         {
-            "source": "YvtYqOkg Company",
-            "target": "RqbrBHmp Company"
+            "source": "合力文化有限公司",
+            "target": "优创食品有限公司"
         },
         {
-            "source": "YvtYqOkg Company",
-            "target": "bMxljoIb Company"
+            "source": "合力文化有限公司",
+            "target": "新时代实业有限公司"
         },
         {
-            "source": "YvtYqOkg Company",
-            "target": "MyUhhaQo Company"
+            "source": "江南文化有限公司",
+            "target": "东方文化有限公司"
         },
         {
-            "source": "YvtYqOkg Company",
-            "target": "WNhZiOev Company"
+            "source": "江南文化有限公司",
+            "target": "永康电子有限公司"
         },
         {
-            "source": "RHRVjxFu Company",
-            "target": "bMxljoIb Company"
+            "source": "江南文化有限公司",
+            "target": "江南贸易有限公司"
         },
         {
-            "source": "RHRVjxFu Company",
-            "target": "thTxlUML Company"
+            "source": "江南文化有限公司",
+            "target": "新时代网络有限公司"
         },
         {
-            "source": "RHRVjxFu Company",
-            "target": "vudReemu Company"
+            "source": "江南文化有限公司",
+            "target": "昌盛设备有限公司"
         },
         {
-            "source": "RHRVjxFu Company",
-            "target": "WNhZiOev Company"
+            "source": "江南文化有限公司",
+            "target": "永康贸易有限公司"
         },
         {
-            "source": "YTIUheov Company",
-            "target": "RqbrBHmp Company"
+            "source": "东方文化有限公司",
+            "target": "昌盛设备有限公司"
         },
         {
-            "source": "YTIUheov Company",
-            "target": "vudReemu Company"
+            "source": "东方文化有限公司",
+            "target": "合力文化有限公司"
         },
         {
-            "source": "YTIUheov Company",
-            "target": "nHMMTKoK Company"
+            "source": "东方文化有限公司",
+            "target": "昌盛电子有限公司"
         },
         {
-            "source": "YTIUheov Company",
-            "target": "bgKVOyBp Company"
+            "source": "东方文化有限公司",
+            "target": "永康实业有限公司"
         },
         {
-            "source": "avwWZjna Company",
-            "target": "zvLqpMlo Company"
+            "source": "东方文化有限公司",
+            "target": "新时代实业有限公司"
         },
         {
-            "source": "avwWZjna Company",
-            "target": "fntJnCCP Company"
+            "source": "永康电子有限公司",
+            "target": "昌盛设备有限公司"
         },
         {
-            "source": "avwWZjna Company",
-            "target": "cdKDrvmv Company"
+            "source": "永康电子有限公司",
+            "target": "昌盛文化有限公司"
         },
         {
-            "source": "zvLqpMlo Company",
-            "target": "vudReemu Company"
+            "source": "江南贸易有限公司",
+            "target": "合力设备有限公司"
         },
         {
-            "source": "SrSLVhmN Company",
-            "target": "MyUhhaQo Company"
+            "source": "江南贸易有限公司",
+            "target": "昌盛文化有限公司"
         },
         {
-            "source": "SrSLVhmN Company",
-            "target": "zwkqYfuw Company"
+            "source": "江南贸易有限公司",
+            "target": "昌盛电子有限公司"
         },
         {
-            "source": "fntJnCCP Company",
-            "target": "vudReemu Company"
+            "source": "江南贸易有限公司",
+            "target": "优创食品有限公司"
         },
         {
-            "source": "fntJnCCP Company",
-            "target": "zwkqYfuw Company"
+            "source": "江南贸易有限公司",
+            "target": "永康实业有限公司"
         },
         {
-            "source": "RqbrBHmp Company",
-            "target": "WNhZiOev Company"
+            "source": "江南贸易有限公司",
+            "target": "高新电子有限公司"
         },
         {
-            "source": "bMxljoIb Company",
-            "target": "kANBWNMZ Company"
+            "source": "新时代网络有限公司",
+            "target": "昌盛设备有限公司"
         },
         {
-            "source": "bMxljoIb Company",
-            "target": "zwkqYfuw Company"
+            "source": "新时代网络有限公司",
+            "target": "永康文化有限公司"
         },
         {
-            "source": "thTxlUML Company",
-            "target": "vudReemu Company"
+            "source": "新时代网络有限公司",
+            "target": "新时代实业有限公司"
         },
         {
-            "source": "cdKDrvmv Company",
-            "target": "nHMMTKoK Company"
+            "source": "昌盛设备有限公司",
+            "target": "永康贸易有限公司"
         },
         {
-            "source": "cdKDrvmv Company",
-            "target": "MyUhhaQo Company"
+            "source": "昌盛设备有限公司",
+            "target": "永康文化有限公司"
         },
         {
-            "source": "vudReemu Company",
-            "target": "MyUhhaQo Company"
+            "source": "合力设备有限公司",
+            "target": "永康实业有限公司"
         },
         {
-            "source": "vudReemu Company",
-            "target": "zwkqYfuw Company"
+            "source": "合力设备有限公司",
+            "target": "高新电子有限公司"
         },
         {
-            "source": "nHMMTKoK Company",
-            "target": "MyUhhaQo Company"
+            "source": "合力文化有限公司",
+            "target": "昌盛电子有限公司"
         },
         {
-            "source": "nHMMTKoK Company",
-            "target": "WNhZiOev Company"
+            "source": "合力文化有限公司",
+            "target": "优创食品有限公司"
         },
         {
-            "source": "nHMMTKoK Company",
-            "target": "zwkqYfuw Company"
+            "source": "合力文化有限公司",
+            "target": "合力食品有限公司"
         },
         {
-            "source": "bgKVOyBp Company",
-            "target": "MyUhhaQo Company"
+            "source": "合力文化有限公司",
+            "target": "高新电子有限公司"
         },
         {
-            "source": "kANBWNMZ Company",
-            "target": "WNhZiOev Company"
+            "source": "昌盛文化有限公司",
+            "target": "永康实业有限公司"
         },
         {
-            "source": "MyUhhaQo Company",
-            "target": "zwkqYfuw Company"
+            "source": "昌盛文化有限公司",
+            "target": "新时代实业有限公司"
+        },
+        {
+            "source": "昌盛电子有限公司",
+            "target": "高新电子有限公司"
+        },
+        {
+            "source": "优创食品有限公司",
+            "target": "永康贸易有限公司"
+        },
+        {
+            "source": "优创食品有限公司",
+            "target": "新时代实业有限公司"
+        },
+        {
+            "source": "合力食品有限公司",
+            "target": "新时代实业有限公司"
+        },
+        {
+            "source": "永康贸易有限公司",
+            "target": "永康文化有限公司"
+        },
+        {
+            "source": "永康文化有限公司",
+            "target": "高新电子有限公司"
         }
     ]
 }
